@@ -1,4 +1,4 @@
-module github.com/parthkd/simplebank
+module github.com/parthkd/simplebank.git
 
 go 1.16
 
